@@ -1,2 +1,2 @@
 # ddos_lozits
-bu herhangi bir siteye otomatik aket gönderen bir python scirptidir
+bu herhangi bir siteye otomatik paket gönderen bir python scirptidir
